@@ -1,0 +1,65 @@
+Start time	
+Completion time	
+Email	
+Name	 
+Job Number	
+Premises ID	
+Name of Occupier	
+Property Name	
+Premises Address	 
+Assessment Date	
+Time of Assessment (hh:mm)
+Number of Occupiers 
+Address of Occupier within the building 
+Postcode1	
+Telephone Number1
+Registered Address of Occupier	
+Postcode2	
+Telephone Number2	
+Name3
+Registered Address of Owner	
+Postcode3	
+Telephone Number3	
+Name4	
+Position within Organisation
+Telephone Number4	
+Mobile	
+Email23	
+Is the RP providing the information	
+Name2	
+Position within Organisation2	
+Telephone Number5	
+Mobile2	Email2
+Time range
+Description of Occupants	
+Sole Supplier in UK (High value, unique service or products)	
+Give brief details	
+Exceptional Value (Value of rebuild and restock)	
+Give brief details2	
+Heritage Risk (National importance or international significance)	
+Give brief details3	
+Community Loss (Exceptional value or impact to the community)	
+Give brief details4	
+Chemical Site	
+Give brief details5	
+Top Tier COMAH Site	
+Give brief details6	
+Extent of damage	
+Estimate damage within 50m2 (Fire and smoke damage without fire-fighter intervention)	
+Fire-fighter Hazard (Building or contents that may pose a risk)	
+Give details	
+Hazard	Are there any fire-fighting facilities	
+Give details2	
+Available Facilities	
+Is there any extract or positive pressure smoke control system covering MoE and/or common areas?	
+Extract or smoke control system details	Select System	
+If sprinklered select purpose	
+Building has features which may assist fire spread?	
+Features assisting fire spread	AFA Present (Monitored System)	Adequacy of Fire Warning System	FSEC Code	
+Building Size - 
+Total Number of Storeys in the Building (Including Basements)	
+Number of Basement Storeys	
+Number of Storeys	
+Name of Assessor	
+Role	
+Service Number
